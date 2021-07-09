@@ -440,7 +440,7 @@ main {
     grid-template-rows: auto repeat(3, 9rem);
     border-radius: inherit;
    margin-left: -25px;
-   padding: 25px;
+   padding: 27.5px;
   }
 }
 
