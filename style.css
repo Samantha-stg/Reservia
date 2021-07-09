@@ -45,7 +45,7 @@ main {
   transition-duration: 0.1s;
   border-top: 3px transparent solid;
   border-bottom: 3px transparent solid;
-  padding: 9%;
+  
 }
 
 .headerNavLink:hover {
