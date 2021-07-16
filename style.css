@@ -103,10 +103,6 @@ main {
 }
 
 
-
-  }
-}
-
 .main {
   max-width: 1440px;
   margin: auto;
@@ -407,7 +403,7 @@ main {
     grid-template-rows: auto 10rem;
     column-gap: 2rem;
     grid-row-start: 1;
-    width: 110%;
+    width: 108.5%;
   }
   .hostingPopularTitle {
     grid-column: 1/-1;
@@ -689,4 +685,4 @@ main {
    border: 2px solid #d9d9d9;
    margin-right: 10px;
   }
- }
+ 
